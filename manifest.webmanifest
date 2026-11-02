@@ -1,0 +1,26 @@
+{
+  "name": "Wortwerk",
+  "short_name": "Wortwerk",
+  "description": "Learn German for real life: words, grammar, reading, real-life missions and exam training (A1–A2).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F5F7",
+  "theme_color": "#2447F5",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": [
+    "education"
+  ]
+}
